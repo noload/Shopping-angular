@@ -6,5 +6,4 @@ import { Component } from '@angular/core';
   styleUrl: './class-demo.component.css'
 })
 export class ClassDemoComponent {
-background:boolean=false
 }
